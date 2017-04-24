@@ -1,0 +1,19 @@
+{
+  "name": "dht22-logger-js",
+  "version": "0.0.1",
+  "description": "Logging temperature and humidity via the DHT22 sensor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "dht22"
+  ],
+  "author": "Eric Julius",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.6.2",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.3"
+  }
+}
